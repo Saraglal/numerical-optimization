@@ -1,4 +1,4 @@
-# Numerical Optimization for Machine Learning
+# Numerical Optimization for ML
 
 This repository contains Python implementations of various numerical optimization algorithms commonly used in machine learning. These algorithms are crucial for optimizing the parameters of machine learning models efficiently.
 
@@ -21,4 +21,3 @@ This repository contains Python implementations of various numerical optimizatio
 8. **ADAM:** A popular optimization algorithm that combines the ideas of momentum and adaptive learning rates.
 
 9. **Second Order Optimization:** Optimization algorithms that utilize second-order derivatives (Hessian matrix) to approximate the curvature of the loss function for more precise updates. Examples include Newton's method and Quasi-Newton methods like BFGS.
-# numerical-optimization-for-ML
